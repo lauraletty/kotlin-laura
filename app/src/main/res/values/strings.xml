@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">laura android</string>
+    <string name="title_activity_layoutactivity">layoutactivity</string>
+    <string name="title_activity_intentactivity">intentactivity</string>
+</resources>
